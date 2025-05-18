@@ -1,0 +1,79 @@
+===== Data size: 100 =====
+ForEach Tests:
+Serial for_each time: 2 microseconds
+Parallel for_each time: 565 microseconds
+C++17 parallel for_each time: 1 microseconds
+
+Find Tests:
+Serial find time: 1 microseconds
+Parallel find time: 293 microseconds
+C++17 parallel find time: 2 microseconds
+
+PartialSum Tests:
+Serial partial_sum time: 1 microseconds
+Parallel partial_sum time: 177 microseconds
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+===== Data size: 1000 =====
+ForEach Tests:
+Serial for_each time: 9 microseconds
+Parallel for_each time: 1654 microseconds
+C++17 parallel for_each time: 9 microseconds
+
+Find Tests:
+Serial find time: 5 microseconds
+Parallel find time: 1638 microseconds
+C++17 parallel find time: 8 microseconds
+
+PartialSum Tests:
+Serial partial_sum time: 12 microseconds
+Parallel partial_sum time: 1699 microseconds
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+===== Data size: 100000 =====
+ForEach Tests:
+Serial for_each time: 906 microseconds
+Parallel for_each time: 5506 microseconds
+C++17 parallel for_each time: 907 microseconds
+
+Find Tests:
+Serial find time: 519 microseconds
+Parallel find time: 5245 microseconds
+C++17 parallel find time: 778 microseconds
+
+PartialSum Tests:
+Serial partial_sum time: 1198 microseconds
+Parallel partial_sum time: 5624 microseconds
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+===== Data size: 1000000 =====
+ForEach Tests:
+Serial for_each time: 8646 microseconds
+Parallel for_each time: 5676 microseconds
+C++17 parallel for_each time: 9464 microseconds
+
+Find Tests:
+Serial find time: 5107 microseconds
+Parallel find time: 5686 microseconds
+C++17 parallel find time: 7779 microseconds
+
+PartialSum Tests:
+Serial partial_sum time: 11334 microseconds
+Parallel partial_sum time: 5822 microseconds
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+===== Data size: 10000000 =====
+ForEach Tests:
+Serial for_each time: 81292 microseconds
+Parallel for_each time: 10512 microseconds
+C++17 parallel for_each time: 79202 microseconds
+
+Find Tests:
+Serial find time: 43563 microseconds
+Parallel find time: 9677 microseconds
+C++17 parallel find time: 65614 microseconds
+
+PartialSum Tests:
+Serial partial_sum time: 104789 microseconds
+Parallel partial_sum time: 8011 microseconds
+C++17 parallel partial_sum is not supported in GCC/libstdc++.

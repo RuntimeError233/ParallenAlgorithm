@@ -1,0 +1,3 @@
+/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/build/CMakeFiles/ParallenAlgorithm.dir
+/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/build/CMakeFiles/edit_cache.dir
+/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/build/CMakeFiles/rebuild_cache.dir

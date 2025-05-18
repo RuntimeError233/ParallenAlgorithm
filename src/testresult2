@@ -1,0 +1,84 @@
+===== Data size: 26 =====
+ForEach Tests:
+  Serial: 0 us
+  Parallel: 278 us, Speedup: 0
+  C++17 Parallel: 0 us, Speedup: -nan
+
+Find Tests:
+  Serial: 0 us
+  Parallel: 158 us, Speedup: 0
+  C++17 Parallel: 2 us, Speedup: 0
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+PartialSum Tests:
+  Serial: 0 us
+  Parallel: 221 us, Speedup: 0
+  C++17 Parallel: 0 us, Speedup: -nan
+
+===== Data size: 10000 =====
+ForEach Tests:
+  Serial: 131 us
+  Parallel: 8432 us, Speedup: 0.0155361
+  C++17 Parallel: 201 us, Speedup: 0.651741
+
+Find Tests:
+  Serial: 67 us
+  Parallel: 8145 us, Speedup: 0.00822591
+  C++17 Parallel: 104 us, Speedup: 0.644231
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+PartialSum Tests:
+  Serial: 148 us
+  Parallel: 7172 us, Speedup: 0.0206358
+  C++17 Parallel: 0 us, Speedup: inf
+
+===== Data size: 100000 =====
+ForEach Tests:
+  Serial: 910 us
+  Parallel: 6744 us, Speedup: 0.134935
+  C++17 Parallel: 939 us, Speedup: 0.969116
+
+Find Tests:
+  Serial: 510 us
+  Parallel: 6545 us, Speedup: 0.0779221
+  C++17 Parallel: 801 us, Speedup: 0.636704
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+PartialSum Tests:
+  Serial: 1205 us
+  Parallel: 7003 us, Speedup: 0.172069
+  C++17 Parallel: 0 us, Speedup: inf
+
+===== Data size: 1000000 =====
+ForEach Tests:
+  Serial: 9114 us
+  Parallel: 6862 us, Speedup: 1.32818
+  C++17 Parallel: 9407 us, Speedup: 0.968853
+
+Find Tests:
+  Serial: 5108 us
+  Parallel: 6576 us, Speedup: 0.776764
+  C++17 Parallel: 8020 us, Speedup: 0.636908
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+PartialSum Tests:
+  Serial: 12004 us
+  Parallel: 25292 us, Speedup: 0.474616
+  C++17 Parallel: 0 us, Speedup: inf
+
+===== Data size: 10000000 =====
+ForEach Tests:
+  Serial: 93430 us
+  Parallel: 7390 us, Speedup: 12.6428
+  C++17 Parallel: 145727 us, Speedup: 0.64113
+
+Find Tests:
+  Serial: 51383 us
+  Parallel: 65283 us, Speedup: 0.787081
+  C++17 Parallel: 99824 us, Speedup: 0.514736
+C++17 parallel partial_sum is not supported in GCC/libstdc++.
+
+PartialSum Tests:
+  Serial: 130442 us
+  Parallel: 51918 us, Speedup: 2.51246
+  C++17 Parallel: 0 us, Speedup: inf
