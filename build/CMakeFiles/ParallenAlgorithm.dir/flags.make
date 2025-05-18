@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/include
+CXX_INCLUDES = -I/home/duofantu/project/ParallenAlgorithm/include
 
 CXX_FLAGS = -std=gnu++20
 

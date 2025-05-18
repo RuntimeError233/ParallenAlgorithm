@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/src/test.cpp" "CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o" "gcc" "CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o.d"
+  "/home/duofantu/project/ParallenAlgorithm/src/test.cpp" "CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o" "gcc" "CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o.d"
   )
 
 # Targets to which this target links.

@@ -1,5 +1,5 @@
 CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o: \
- /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/src/test.cpp \
+ /home/duofantu/project/ParallenAlgorithm/src/test.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -242,11 +242,11 @@ CMakeFiles/ParallenAlgorithm.dir/src/test.cpp.o: \
  /usr/include/c++/11/bits/this_thread_sleep.h \
  /usr/include/x86_64-linux-gnu/sys/time.h /usr/include/semaphore.h \
  /usr/include/x86_64-linux-gnu/bits/semaphore.h \
- /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/include/join_thread.h \
- /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/include/parallen_for_each.h \
+ /home/duofantu/project/ParallenAlgorithm/include/join_thread.h \
+ /home/duofantu/project/ParallenAlgorithm/include/parallen_for_each.h \
  /usr/include/c++/11/future /usr/include/c++/11/mutex \
  /usr/include/c++/11/bits/unique_lock.h \
  /usr/include/c++/11/condition_variable \
  /usr/include/c++/11/bits/atomic_futex.h \
- /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/include/parallen_find.h \
- /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/include/parallen_sum.h
+ /home/duofantu/project/ParallenAlgorithm/include/parallen_find.h \
+ /home/duofantu/project/ParallenAlgorithm/include/parallen_sum.h

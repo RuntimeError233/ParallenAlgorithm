@@ -1,4 +1,4 @@
-# Install script for directory: /home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm
+# Install script for directory: /home/duofantu/project/ParallenAlgorithm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/duofantu/project/ParallenAlgorithm/ParallenAlgorithm/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/duofantu/project/ParallenAlgorithm/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
